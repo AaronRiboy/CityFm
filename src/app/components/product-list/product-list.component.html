@@ -1,0 +1,19 @@
+<h2>Product List</h2>
+<table>
+  <thead>
+    <tr>
+      <th>Code</th>
+      <th>Description</th>
+      <th>Base Price</th>
+      <th>Marked Up Price</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let product of products">
+      <td>{{ product.productCode }}</td>
+      <td>{{ product.description }}</td>
+      <td>{{ product.basePrice }}</td>
+      <td>{{ product.markedUpPrice }}</td>
+    </tr>
+  </tbody>
+</table>

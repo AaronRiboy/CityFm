@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "+K+zLyLF9kIPUqUgrAAIbZ7ydcqev2uBitodXx6XW2o=",
+  "Source": "CityFm.API",
+  "BasePath": "_content/CityFm.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
